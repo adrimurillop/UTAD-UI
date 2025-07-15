@@ -1,6 +1,7 @@
 Practica Final UI
 
 *CPP*
+
 Para crear el árbol de comportamientos se han creado dos clases auxiliares.
 - WSkillTree: Contiene todos los nodos de Skill y es el encargado de mostar la cantidad de puntos totales restantes.
 - WSkill: Contiene toda la lógica para desbloquear las mejoras y las condiciones de bloqueo.
